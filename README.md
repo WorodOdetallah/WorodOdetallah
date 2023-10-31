@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @WorodOdetallah
-  
-🚀 **Who Am I?**
+### Hi, I'm @WorodOdetallah 👋👩‍💻
+
+<details>
+<summary>🚀 Who Am I?</summary>
 
 - 🎓 A dedicated Practical Engineer majoring in Software Engineering at Ariel University.
 - 🌌 Well-versed in a plethora of technologies, programming languages, and frameworks.
 - 🎹 A piano player at heart, blending art and technology.
 - 🌟 Eager to solve complex, real-world problems through code and ever-curious about cyber security.
-  
-🛠 **Core Competencies**
+
+</details>
+
+<details>
+<summary>🛠 Core Competencies</summary>
 
 - 🌐 **Web Development**: React | Node | JavaScript | TypeScript | HTML & CSS
 - 🐍 **Scripting & Automation**: Python
@@ -24,7 +28,10 @@
   - Data Communication and Information Security
   - Aspiring enthusiast in Cyber Security, eager to learn more.
 
-🤝 **Collaboration & Community**
+</details>
+
+<details>
+<summary>🤝 Collaboration & Community</summary>
 
 - 🤖 Open to joining hands on tech projects that have a practical application or learning potential.
 - 🌍 Ready to offer hands-on support for projects that align with my skill set.
@@ -33,15 +40,9 @@
 - 💡 Act as a "Speak Up" guide, showcasing strong communication and advocacy skills.
 - 🗺️ Focused on encouraging a respectful and collaborative tech community.
 
+</details>
+
 📬 **How to Reach Me**
-  
+
 - LinkedIn: [Worod Odetallah]
-- Email:worododetallah1@gmail.com --- worod_2001_@hotmail.co.il
-    
-
-
-
-<!---
-WorodOdetallah/WorodOdetallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: worododetallah1@gmail.com --- worod_2001_@hotmail.co.il
