@@ -33,10 +33,10 @@
 - 💡 Act as a "Speak Up" guide, showcasing strong communication and advocacy skills.
 - 🗺️ Focused on encouraging a respectful and collaborative tech community.
 
-  📬 **How to Reach Me**
+📬 **How to Reach Me**
   
-  - LinkedIn: [Worod Odetallah]
-  -  Email:worododetallah1@gmail.com --- worod_2001_@hotmail.co.il
+- LinkedIn: [Worod Odetallah]
+- Email:worododetallah1@gmail.com --- worod_2001_@hotmail.co.il
     
 
 
